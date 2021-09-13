@@ -10,5 +10,8 @@
    "target_path" : "vendor/xiaomi/sm6150-common",
    "remote"      : "pixel-devices-blobs",
    "branch"      : "eleven"
+},
+ {
+   "repository"  : "android_packages_apps_GCamGOPrebuilt",
+   "target_path" : "packages/apps/GCamGOPrebuilt"
  }
-]
